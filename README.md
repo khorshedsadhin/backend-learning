@@ -19,16 +19,10 @@ To view and run the code in this repository, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/backend-learning.git
+git clone https://github.com/khorshedsadhin/backend-learning.git
 
 # Navigate to the project directory
 cd backend-learning
-
-# Install dependencies (if applicable)
-npm install  # or yarn install
-
-# Start the development server
-npm start  # or yarn start
 ```
 ```
 
